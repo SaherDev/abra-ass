@@ -1,6 +1,6 @@
 # abra-ass
 
-***using React, Node.js***
+***React, Node.js***
 
 ## Instructions
 ##### 1. Clone ***( using `git clone` )*** or Download the folder ***( using ***`Download ZIP`*** option )*** #####
